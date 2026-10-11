@@ -352,6 +352,16 @@ Gera:
     - multi-paradigm
     - interpreter
 
+Gooo:
+  website: https://github.com/kimjooyoon/meta-ontology-go
+  github: kimjooyoon/meta-ontology-go
+  author:
+    name: asketeddy
+    website: https://github.com/kimjooyoon
+  summary: >
+    Experimental language with typed entities and activities, bounded Go
+    code generation, and replayable execution receipts.
+
 Gwion:
   website: https://gwion.github.io/Gwion/
   github: fennecdjay/Gwion
